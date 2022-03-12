@@ -11,7 +11,7 @@ public class Utility {
 
 		System.out.println("Utility m1() method : 1234");
 		System.out.println("abc 123");
-
+		System.out.println("Hello from Utility class");
 	}
 
 	public void m2() {
