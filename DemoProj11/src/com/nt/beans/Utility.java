@@ -13,4 +13,8 @@ public class Utility {
 		System.out.println("abc 123");
 
 	}
+	
+	public void m2() {
+		System.out.println("m2()");
+	}
 }
